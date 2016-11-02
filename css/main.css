@@ -635,6 +635,9 @@ body{
 .navbar li a{
 	font-size: 12px;
 }
+.logo{
+	display: none;
+}
 .hi{
 	margin-top: 30px;
 	width: 100%;
@@ -704,6 +707,9 @@ body{
 .headerLeft img{
 	position: relative;
 	top:7px !important;
+}
+.logo{
+	display: none;
 }
 .hi h1{
 	font-size: 60px;
