@@ -40,8 +40,6 @@ a:hover{
 	position: relative;
 	margin: 0px auto;
 }
-
-
 .spinner {
   width: 40px;
   height: 40px;
@@ -59,7 +57,6 @@ a:hover{
   position: absolute;
   top: 0;
   left: 0;
-  
   -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
   animation: sk-bounce 2.0s infinite ease-in-out;
 }
@@ -186,7 +183,7 @@ a:hover{
 	margin-bottom: 15px;
 }
 .hi span{
-	font-size: 16px;
+	font-size: 25px;
 	font-weight: 400;
 	font-family: "Poppins", sans-serif;
 	letter-spacing: 1px;
